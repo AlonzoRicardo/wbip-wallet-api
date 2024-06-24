@@ -1,6 +1,7 @@
 {
   "name": "xverse-wallet-api",
-  "version": "1.0.9",
+  "url": "https://github.com/AlonzoRicardo/wbip-wallet-api",
+  "version": "1.0.10",
   "description": "A mock Bitcoin wallet API",
   "main": "dist/api.js",
   "types": "dist/api.d.ts",

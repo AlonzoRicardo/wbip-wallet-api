@@ -1,3 +1,10 @@
+### Run example
+```
+cd example
+npm install
+npm start
+```
+
 ### USAGE
 
 ```
