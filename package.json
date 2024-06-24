@@ -1,6 +1,6 @@
 {
   "name": "xverse-wallet-api",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "A mock Bitcoin wallet API",
   "main": "dist/api.js",
   "types": "dist/api.d.ts",

@@ -40,4 +40,4 @@ interface ProviderInfo {
     };
 }
 declare const providerInfo: ProviderInfo;
-export { providerInfo };
+export { ProviderInfo, providerInfo };

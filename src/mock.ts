@@ -57,4 +57,4 @@ window.addEventListener("identify-request", () => {
     window.dispatchEvent(identifyResponse);
 });
 
-export { providerInfo };
+export { ProviderInfo, providerInfo };
